@@ -1,10 +1,10 @@
-# Qiqi (其器): example customization
+# QIQI (奇奇): example customization
 
 This example uses a nickname and intentionally leaves out identifying, medical, and location details.
 
 ## What we know
 
-- Qiqi is a **very active toddler** who benefits from frequent safe movement and outdoor exploration across the day.
+- QIQI is a **very active toddler** who benefits from frequent safe movement and outdoor exploration across the day.
 - Weekdays include daycare, so home activities stay short and connection comes first after pickup.
 - Favorite interests are books, painting, water play, and active movement.
 - The family wants to nurture confidence, happiness, and health without pressure to perform.

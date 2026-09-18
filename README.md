@@ -2,7 +2,7 @@
 
 A practical parenting library for **12–24 months**, combining responsive caregiving, playful learning, health and safety reminders, developmental monitoring, and editable family records.
 
-This toolkit is reusable for any family. It also includes an anonymized example for **Qiqi (其器)**, a very active toddler who attends weekday daycare and especially enjoys books, painting, water, and movement. The example shows how to adapt a general plan without publishing a child's real name.
+This toolkit is reusable for any family. It also includes an anonymized example for **QIQI (奇奇)**, a very active toddler who attends weekday daycare and especially enjoys books, painting, water, and movement. The example shows how to adapt a general plan without publishing a child's real name.
 
 ## Start here
 
@@ -10,7 +10,7 @@ This toolkit is reusable for any family. It also includes an anonymized example 
 2. Open the plan for your child's current month, beginning with [12 months](months/12-months.md).
 3. Use the [flexible daily rhythm](guides/routine.md), adapting it for home care, daycare, relatives, or another caregiver.
 4. Review the [play-space safety guide](guides/playroom.md) and [illustrated food guide](guides/food-safety.md).
-5. See the [Qiqi example profile](examples/qiqi-profile.md) for one customized version.
+5. See the [QIQI example profile](examples/qiqi-profile.md) for one customized version.
 6. Keep personal observations in copies of the [templates](templates/README.md), preferably in the ignored `private/` folder.
 
 Success means shared enjoyment, chances to explore, and a caregiver who responds. Finishing activities or reaching skills early is not the goal. No plan can guarantee a particular personality or lifelong health.
@@ -49,6 +49,6 @@ This is general parenting education, not an individualized medical or developmen
 
 ## Privacy and reuse
 
-Before publishing a copy, remove names, dates of birth, childcare locations, medical details, photos, and exact routines that could identify a child. Filled records belong in `private/`, which Git ignores; Git exclusion is not encryption or a backup. The Qiqi example uses a nickname and broad routines only.
+Before publishing a copy, remove names, dates of birth, childcare locations, medical details, photos, and exact routines that could identify a child. Filled records belong in `private/`, which Git ignores; Git exclusion is not encryption or a backup. The QIQI example uses a nickname and broad routines only.
 
 The repository is plain Markdown: no installation or subscription is needed. Sources were checked September 18, 2026; updates are not automatic.

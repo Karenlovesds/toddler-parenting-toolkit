@@ -11,7 +11,7 @@ Visit type / clinician:
 
 Symptoms or concern / onset / change over time:
 Eating, drinking, urine, sleep, activity changes:
-Relevant daycare observations:
+Relevant childcare or other-caregiver observations:
 Allergies and current medicines as confirmed in clinical records:
 
 ## Clinician findings — complete only from the visit

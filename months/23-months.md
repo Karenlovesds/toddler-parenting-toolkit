@@ -10,22 +10,22 @@ Keep favorite activities and add one small variation rather than many new demand
 
 ## Choose one invitation at a time
 
-- **STEAM:** Revisit water transfer with differently sized cups; let him explore where the water goes.
+- **STEAM:** Revisit water transfer with differently sized cups; let them explore where the water goes.
 - **Art:** Combine familiar drawing tools on a large sheet, one or two tools at a time.
-- **Reading and language:** If he uses a word or gesture, respond with a short related phrase. Keep the exchange playful, not a repetition drill.
-- **Sports and movement:** Let him choose a safe outdoor route. Follow walking, stopping, or running according to present ability and conditions.
-- **Music:** Sing a favorite verse and pause where he might like to contribute a sound or movement.
+- **Reading and language:** If they use a word or gesture, respond with a short related phrase. Keep the exchange playful, not a repetition drill.
+- **Sports and movement:** Let them choose a safe outdoor route. Follow walking, stopping, or running according to present ability and conditions.
+- **Music:** Sing a favorite verse and pause where they might like to contribute a sound or movement.
 - **Confidence and connection:** “You can tell me or show me.” Respect different ways of communicating.
 
-These are options across the month, not a daily checklist. After daycare, reconnect first and offer an activity only if he is interested. Repeat favorites as often as he likes.
+These are options across the month, not a daily checklist. After childcare or a busy day, reconnect first and offer an activity only if they are interested. Repeat favorites as often as they like.
 
-## Adjust to Braden
+## Adjust to your child
 
-Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when he is engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
+Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when they are engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
 
 ## Health and observations
 
-Gather daycare observations and dated examples for the 24-month visit. Organize clinician-recorded measurements without assigning your own growth targets.
+Gather observations from other caregivers and dated examples for the 24-month visit. Organize clinician-recorded measurements without assigning your own growth targets.
 
 **Reflection:** What variation added interest without frustration?
 

@@ -6,28 +6,28 @@
 
 ## Parenting focus
 
-Pause before helping with a manageable challenge. Help promptly if he asks or becomes distressed.
+Pause before helping with a manageable challenge. Help promptly if they ask or become distressed.
 
 ## Choose one invitation at a time
 
 - **STEAM:** Try nesting two large containers. Hold the lower one steady if needed.
-- **Art:** Let him choose between two large drawing tools and make whatever marks he likes.
-- **Reading and language:** Pause at a familiar picture to give him room to point or make a sound.
+- **Art:** Let them choose between two large drawing tools and make whatever marks they like.
+- **Reading and language:** Pause at a familiar picture to give them room to point or make a sound.
 - **Sports and movement:** Carry a soft toy to a low basket on a clear floor; use a seated passing game if easier.
 - **Music:** Tap a toddler drum or your knees together at a comfortable volume.
 - **Confidence and connection:** “Want me to hold it?” Offer a small amount of help without taking over.
 
-These are options across the month, not a daily checklist. After daycare, reconnect first and offer an activity only if he is interested. Repeat favorites as often as he likes.
+These are options across the month, not a daily checklist. After childcare or a busy day, reconnect first and offer an activity only if they are interested. Repeat favorites as often as they like.
 
-## Adjust to Braden
+## Adjust to your child
 
-Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when he is engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
+Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when they are engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
 
 ## Health and observations
 
-Prepare questions for the upcoming 18-month visit. Collect a few natural examples of communication and movement from home and daycare.
+Prepare questions for the upcoming 18-month visit. Collect a few natural examples of communication and movement across caregivers.
 
-**Reflection:** What kind of help let him stay involved?
+**Reflection:** What kind of help let them stay involved?
 
 Record a brief natural example in the [observation template](../templates/milestone-observation.md). Missing milestones, loss of skills, or any concern should prompt a clinician discussion; do not wait for next month's page.
 

@@ -12,12 +12,12 @@ Offer a manageable selection and rotate based on interest, not a fixed numerical
 
 ## Water play: active adult supervision every time
 
-Use a stable basin, a small amount of water, and large cups on a nonslip surface. A designated adult must stay within arm's reach, watch continuously, and remain free of phone or other distractions. If the adult leaves, take Braden too. Empty containers immediately afterward and keep them inaccessible. Shallow water can still cause drowning; lessons do not replace supervision. [AAP water safety](https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Water-Safety-And-Young-Children.aspx)
+Use a stable basin, a small amount of water, and large cups on a nonslip surface. A designated adult must stay within arm's reach, watch continuously, and remain free of phone or other distractions. If the adult leaves, take the child too. Empty containers immediately afterward and keep them inaccessible. Shallow water can still cause drowning; lessons do not replace supervision. [AAP water safety](https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Water-Safety-And-Young-Children.aspx)
 
 ## Art and sensory materials
 
-Use products labeled for his age and follow their directions. “Non-toxic” does not mean edible. Supervise closely and put paint or crayons away if he mouths them. A brush with water on a washable surface is a useful alternative. Avoid water beads, loose beans/rice, tiny craft pieces, and homemade instruments containing small loose fillers. Keep paper pieces and damaged tools out of his mouth. These are conservative material choices for this repository, not a list of approved products.
+Use products labeled for their age and follow their directions. “Non-toxic” does not mean edible. Supervise closely and put paint or crayons away if they mouth them. A brush with water on a washable surface is a useful alternative. Avoid water beads, loose beans/rice, tiny craft pieces, and homemade instruments containing small loose fillers. Keep paper pieces and damaged tools out of their mouth. These are conservative material choices for this repository, not a list of approved products.
 
 ## Movement
 
-Choose clear floor routes and low, stable challenges matched to his present skills. Stay close enough to help, especially near steps. No forced climbing, balancing, jumping, or competitive drills. Enjoying the movement matters more than completing the route.
+Choose clear floor routes and low, stable challenges matched to their present skills. Stay close enough to help, especially near steps. No forced climbing, balancing, jumping, or competitive drills. Enjoying the movement matters more than completing the route.

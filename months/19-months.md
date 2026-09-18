@@ -6,28 +6,28 @@
 
 ## Parenting focus
 
-Offer a familiar scene and see whether he wants to imitate or change it.
+Offer a familiar scene and see whether they want to imitate or change it.
 
 ## Choose one invitation at a time
 
-- **STEAM:** Use large blocks to make a place for a toy animal. Let him rearrange or dismantle it.
-- **Art:** Try washable age-appropriate paint with a large brush under close supervision; use water painting if he mouths tools or paint.
+- **STEAM:** Use large blocks to make a place for a toy animal. Let them rearrange or dismantle it.
+- **Art:** Try washable age-appropriate paint with a large brush under close supervision; use water painting if they mouth tools or paint.
 - **Reading and language:** After a story about food or bedtime, offer a doll and a large safe pretend cup.
 - **Sports and movement:** Follow a floor-level route between two baskets, with no raised balancing surface.
-- **Music:** Make up a short song about putting toys away and invite him to join.
-- **Confidence and connection:** “Your bear can sit here.” Welcome his own version rather than correcting the pretend story.
+- **Music:** Make up a short song about putting toys away and invite them to join.
+- **Confidence and connection:** “Your bear can sit here.” Welcome their own version rather than correcting the pretend story.
 
-These are options across the month, not a daily checklist. After daycare, reconnect first and offer an activity only if he is interested. Repeat favorites as often as he likes.
+These are options across the month, not a daily checklist. After childcare or a busy day, reconnect first and offer an activity only if they are interested. Repeat favorites as often as they like.
 
-## Adjust to Braden
+## Adjust to your child
 
-Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when he is engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
+Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when they are engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
 
 ## Health and observations
 
-Notice whether transitions are harder when tired or hungry. Share a calming routine with daycare.
+Notice whether transitions are harder when tired or hungry. Share a calming routine across caregivers.
 
-**Reflection:** Which everyday routine does he like to copy?
+**Reflection:** Which everyday routine do they like to copy?
 
 Record a brief natural example in the [observation template](../templates/milestone-observation.md). Missing milestones, loss of skills, or any concern should prompt a clinician discussion; do not wait for next month's page.
 

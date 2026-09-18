@@ -5,7 +5,7 @@ One favorite to repeat:
 One optional new invitation:
 Materials to set out:
 Safety preparation:
-Outdoor/movement opportunities at home and daycare:
+Outdoor/movement opportunities at home and childcare:
 Reading/music moments:
 Family capacity this week / what to simplify:
 
@@ -13,8 +13,8 @@ Family capacity this week / what to simplify:
 
 One moment of joy:
 One attempt or emerging skill:
-What he avoided or disliked:
-Sleep observations, including actual overnight sleep and daycare naps:
+What they avoided or disliked:
+Sleep observations, including actual overnight sleep and childcare naps:
 Question or adjustment for next week:
 
 No completion score is needed. Repeat this plan if it is working.

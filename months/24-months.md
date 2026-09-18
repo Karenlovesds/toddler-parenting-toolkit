@@ -6,22 +6,22 @@
 
 ## Parenting focus
 
-Celebrate what he enjoys and how your relationship has grown. Choose the next steps with him and his clinician.
+Celebrate what they enjoy and how your relationship has grown. Choose the next steps with them and their clinician.
 
 ## Choose one invitation at a time
 
-- **STEAM:** Return to his favorite building or cup game and let him guide your role.
+- **STEAM:** Return to their favorite building or cup game and let them guide your role.
 - **Art:** Offer a choice of familiar art materials. Enjoy the process and save a favorite piece if desired.
-- **Reading and language:** Reread a loved book and leave room for him to point, speak, or act out a scene.
+- **Reading and language:** Reread a loved book and leave room for them to point, speak, or act out a scene.
 - **Sports and movement:** Offer a soft ball for rolling, carrying, or kicking and safe space for active exploration.
-- **Music:** Let him choose between two familiar songs and join in however he prefers.
-- **Confidence and connection:** “I like being with you.” Celebrate his interests without comparing his skills to other children.
+- **Music:** Let them choose between two familiar songs and join in however they prefer.
+- **Confidence and connection:** “I like being with you.” Celebrate their interests without comparing their skills to other children.
 
-These are options across the month, not a daily checklist. After daycare, reconnect first and offer an activity only if he is interested. Repeat favorites as often as he likes.
+These are options across the month, not a daily checklist. After childcare or a busy day, reconnect first and offer an activity only if they are interested. Repeat favorites as often as they like.
 
-## Adjust to Braden
+## Adjust to your child
 
-Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when he is engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
+Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when they are engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
 
 ## Health and observations
 

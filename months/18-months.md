@@ -6,28 +6,28 @@
 
 ## Parenting focus
 
-Enjoy play together while reviewing development with his clinician.
+Enjoy play together while reviewing development with their clinician.
 
 ## Choose one invitation at a time
 
 - **STEAM:** Explore a large age-rated cause-and-effect toy, taking turns operating a safe button or lever.
-- **Art:** Set out paper and large crayons. Follow his marks instead of teaching a correct grip or shape.
-- **Reading and language:** Choose a short book together and let him decide which pages to revisit.
-- **Sports and movement:** Roll a ball back and forth, then offer a short clear route to carry it if he wants.
+- **Art:** Set out paper and large crayons. Follow their marks instead of teaching a correct grip or shape.
+- **Reading and language:** Choose a short book together and let them decide which pages to revisit.
+- **Sports and movement:** Roll a ball back and forth, then offer a short clear route to carry it if they want.
 - **Music:** Sing a familiar action song and model one simple movement.
 - **Confidence and connection:** “You can choose this one or this one.” Keep the choices simple and real.
 
-These are options across the month, not a daily checklist. After daycare, reconnect first and offer an activity only if he is interested. Repeat favorites as often as he likes.
+These are options across the month, not a daily checklist. After childcare or a busy day, reconnect first and offer an activity only if they are interested. Repeat favorites as often as they like.
 
-## Adjust to Braden
+## Adjust to your child
 
-Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when he is engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
+Make it easier by reducing the materials, steadying an object, or participating while seated. Add only one small variation when they are engaged. Stop for tiredness, distress, refusal, or unsafe mouthing. Follow the [material, water, and movement safety notes](../guides/playroom.md); an adult stays involved.
 
 ## Health and observations
 
 Review the full 18-month CDC checklist. In US care, ask about general developmental and autism screening; local schedules may differ.
 
-**Reflection:** What does he show you simply because it interests him?
+**Reflection:** What do they show you simply because it interests them?
 
 Record a brief natural example in the [observation template](../templates/milestone-observation.md). Missing milestones, loss of skills, or any concern should prompt a clinician discussion; do not wait for next month's page.
 

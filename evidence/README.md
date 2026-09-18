@@ -6,13 +6,13 @@ Sources checked September 18, 2026. Links are public primary-organization guidan
 
 **Guideline:** a professional recommendation informed by research and judgment. **Monitoring guidance:** skills used to support developmental observation. **Practical adaptation:** a family activity or schedule created for this repository, without a trial validating its precise age, sequence, or duration.
 
-Month labels organize choices. They do not imply that a particular game must begin in that month. Age checkpoint descriptions are separate from the play themes. No evidence establishes this ten-month sequence as superior to other responsive, enjoyable play routines.
+Month labels organize choices. They do not imply that a particular game must begin in that month. Age checkpoint descriptions are separate from the play themes. No evidence establishes this 13-month sequence as superior to other responsive, enjoyable play routines.
 
 ## E1 — Responsive care and early learning
 
 [WHO: Improving early childhood development (2020)](https://www.who.int/publications/i/item/97892400020986)
 
-Supports responsive care and opportunities for early learning during the first three years. Applied to following Braden's interests, noticing his cues, and participating together.
+Supports responsive care and opportunities for early learning during the first three years. Applied to following the child's interests, noticing their cues, and participating together.
 
 [WHO guideline: Evidence and recommendations](https://www.ncbi.nlm.nih.gov/books/NBK555069/?report=printable)
 
@@ -30,10 +30,11 @@ Professional guidance supporting play and interaction as part of development. Ap
 
 [WHO: Parent-accessible recommendation summary](https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more)
 
-Supports the sleep and activity recommendations in the routine guide. WHO does not recommend sedentary screen time for one-year-olds; at age two its upper limit is one hour daily, with less preferred. Our activities are screen-free. Neither play-session duration nor exact household timing is specified by the evidence. Daycare and home both contribute.
+Supports the sleep and activity recommendations in the routine guide. WHO does not recommend sedentary screen time for one-year-olds; at age two its upper limit is one hour daily, with less preferred. Our activities are screen-free. Neither play-session duration nor exact household timing is specified by the evidence. Childcare and home both contribute.
 
 ## E4 — Developmental checkpoints
 
+- [CDC: 1 year](https://www.cdc.gov/act-early/milestones/1-year.html)
 - [CDC: 15 months](https://www.cdc.gov/act-early/milestones/15-months.html)
 - [CDC: 18 months](https://www.cdc.gov/act-early/milestones/18-months.html)
 - [CDC: 2 years](https://www.cdc.gov/act-early/milestones/2-years.html)
@@ -44,7 +45,7 @@ Monitoring guidance, not diagnostic tests. Use the full official checklists; rep
 
 [CDC: Clinical screening guidance](https://www.cdc.gov/autism/hcp/diagnosis/screening.html)
 
-Supports the US screening ages in the health guide. Braden's clinician should interpret results and respond to concerns outside scheduled screening visits too.
+Supports the US screening ages in the health guide. The child's clinician should interpret results and respond to concerns outside scheduled screening visits too.
 
 ## E6 — Positive discipline
 
@@ -64,11 +65,23 @@ Supports water supervision and home-hazard prevention. Our room layout is a sugg
 
 [CDC: Choking hazards](https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/choking-hazards.html)
 
+[CDC: Tastes and textures](https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/tastes-and-textures.html)
+
+[CDC: Cups and utensils](https://www.cdc.gov/infant-toddler-nutrition/mealtime/fingers-spoons-forks-and-cups.html)
+
+[CDC: Formula transition from 12 months](https://www.cdc.gov/infant-toddler-nutrition/formula-feeding/how-much-and-how-often.html)
+
+[AAP: Choking prevention](https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/Choking-Prevention.aspx)
+
 [AAP: Making sure your child is eating enough](https://www.healthychildren.org/English/healthy-living/nutrition/Pages/Making-Sure-Your-Child-is-Eating-Enough.aspx)
 
 [AAP: Fluoride for children](https://www.healthychildren.org/English/healthy-living/oral-health/Pages/FAQ-Fluoride-and-Children.aspx)
 
-Supports food preparation, meal/snack rhythm, and toothbrushing advice. Individual allergy, nutrition, dental, and medical plans require professional input.
+Supports food preparation, meal/snack rhythm, cup and utensil practice, the general transition away from infant formula after 12 months, and toothbrushing advice. Individual allergy, feeding, nutrition, dental, and medical plans require professional input. The repository's food diagram is an original summary and is not printed to scale.
+
+## E9 — Visual summaries
+
+The original SVG diagrams translate the cited guidance into simplified visual references. The developmental graphic uses selected CDC checkpoint examples; the food graphic uses CDC and AAP preparation guidance. Neither image is a diagnostic tool, a complete checklist, a clinical photograph, or an exact-size food template. Official CDC milestone pages remain the source for real photo and video examples.
 
 ## Updating a claim
 

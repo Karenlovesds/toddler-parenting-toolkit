@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Food preparation examples for reducing choking risk</title>
+  <desc id="desc">Visual comparison of common round, hard, or sticky choking hazards with modified preparation examples and foods to avoid.</desc>
+  <rect width="1200" height="800" fill="#fffaf1"/>
+  <text x="60" y="70" font-family="Arial, sans-serif" font-size="38" font-weight="700" fill="#3c3327">Prepare food for the child's current skills</text>
+  <text x="60" y="108" font-family="Arial, sans-serif" font-size="20" fill="#665b4d">Shape, texture, seated eating, and close supervision all matter</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="60" y="150" width="510" height="520" rx="22" fill="#f8e4df" stroke="#cf8d82" stroke-width="3"/>
+    <text x="315" y="198" text-anchor="middle" font-size="28" font-weight="700" fill="#8c342b">Avoid serving like this</text>
+    <circle cx="160" cy="275" r="42" fill="#73518b"/><circle cx="214" cy="275" r="42" fill="#73518b"/>
+    <text x="300" y="282" font-size="21" fill="#3c3327">Whole grapes or tomatoes</text>
+    <rect x="115" y="350" width="150" height="54" rx="27" fill="#b85f4e"/>
+    <line x1="165" y1="350" x2="165" y2="404" stroke="#8c342b" stroke-width="3"/><line x1="215" y1="350" x2="215" y2="404" stroke="#8c342b" stroke-width="3"/>
+    <text x="300" y="384" font-size="21" fill="#3c3327">Round hot-dog slices</text>
+    <circle cx="150" cy="485" r="34" fill="#d2a46b"/><circle cx="215" cy="485" r="34" fill="#d2a46b"/>
+    <text x="300" y="492" font-size="21" fill="#3c3327">Whole nuts or popcorn</text>
+    <path d="M115 570 C145 530 215 530 255 570 C215 610 145 610 115 570Z" fill="#b78c56"/>
+    <text x="300" y="578" font-size="21" fill="#3c3327">Thick nut-butter chunk</text>
+
+    <rect x="630" y="150" width="510" height="520" rx="22" fill="#e2f0e7" stroke="#75a884" stroke-width="3"/>
+    <text x="885" y="198" text-anchor="middle" font-size="28" font-weight="700" fill="#28623c">Modify when appropriate</text>
+    <g fill="#73518b">
+      <path d="M700 240 A42 42 0 0 1 742 282 L700 282Z"/><path d="M750 240 A42 42 0 0 1 792 282 L750 282Z"/>
+      <path d="M700 300 A42 42 0 0 0 742 258 L700 258Z"/><path d="M750 300 A42 42 0 0 0 792 258 L750 258Z"/>
+    </g>
+    <text x="835" y="282" font-size="21" fill="#3c3327">Quarter round produce</text>
+    <rect x="685" y="350" width="28" height="85" rx="12" fill="#b85f4e"/><rect x="728" y="350" width="28" height="85" rx="12" fill="#b85f4e"/><rect x="771" y="350" width="28" height="85" rx="12" fill="#b85f4e"/>
+    <line x1="685" y1="392" x2="713" y2="392" stroke="#8c342b" stroke-width="2"/><line x1="728" y1="392" x2="756" y2="392" stroke="#8c342b" stroke-width="2"/><line x1="771" y1="392" x2="799" y2="392" stroke="#8c342b" stroke-width="2"/>
+    <text x="835" y="392" font-size="21" fill="#3c3327">Quarter lengthwise, then slice</text>
+    <path d="M685 500 Q740 455 800 500 Q740 535 685 500Z" fill="#d9a95f"/>
+    <line x1="680" y1="525" x2="805" y2="525" stroke="#9e6e30" stroke-width="8" stroke-linecap="round"/>
+    <text x="835" y="506" font-size="21" fill="#3c3327">Spread nut butter thinly</text>
+    <rect x="682" y="565" width="120" height="65" rx="18" fill="#e5a76a"/>
+    <path d="M700 598 Q715 580 730 598 T760 598 T790 598" fill="none" stroke="#b16937" stroke-width="5"/>
+    <text x="835" y="604" font-size="21" fill="#3c3327">Cook hard foods until soft</text>
+  </g>
+  <text x="60" y="718" font-family="Arial, sans-serif" font-size="19" font-weight="700" fill="#3c3327">Always: sit upright · adult watches closely · calm meal · no eating while walking or riding</text>
+  <text x="60" y="752" font-family="Arial, sans-serif" font-size="17" fill="#665b4d">Not to scale. Adapt to chewing and swallowing skills. Sources: CDC Infant &amp; Toddler Nutrition; AAP HealthyChildren.</text>
+</svg>

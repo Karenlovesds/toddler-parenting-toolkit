@@ -1,6 +1,6 @@
 # Development: observe, support, and ask early
 
-CDC checkpoints describe skills at least 75% of children can do by a given age. They support monitoring and discussion; they are not diagnostic tests or a score of intelligence. The selections below are brief examples, not the complete checklists. Open the linked CDC checklist at each checkpoint for official photos and videos.
+CDC checkpoints describe skills at least 75% of children can do by a given age. They support monitoring and discussion; they are not diagnostic tests or a score of intelligence. The selections below are brief examples, not the complete checklists. Open the linked CDC checklist at each checkpoint for official photos and videos. For a dedicated set of real example photos and videos, use the CDC photo and video library for [12 months](https://www.cdc.gov/act-early/milestones-in-action/1-year.html), [15 months](https://www.cdc.gov/act-early/milestones-in-action/15-months.html), [18 months](https://www.cdc.gov/act-early/milestones-in-action/18-months.html), and [2 years](https://www.cdc.gov/act-early/milestones-in-action/2-years.html).
 
 ![Developmental checkpoints from 12 to 24 months](../assets/milestone-roadmap.svg)
 

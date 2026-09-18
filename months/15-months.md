@@ -4,6 +4,12 @@
 
 **Checkpoint month:** use the [full CDC checklist](https://www.cdc.gov/act-early/milestones/15-months.html), alongside clinician advice.
 
+![Month 15 illustration: connect and explore](../assets/month-15.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** the [CDC photo and video library for 15 months](https://www.cdc.gov/act-early/milestones-in-action/15-months.html) shows actual children doing selected milestones; use it alongside the full checklist.
+
 ## Parenting focus
 
 Let them lead with a familiar book, then join their chosen play. Make room for repeating the same action.

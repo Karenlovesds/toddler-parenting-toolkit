@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">21 months — Practice togetherness</title>
+  <desc id="desc">A ball rolling between two sides with arrows both ways, beside a shared block arrangement. Keeping turns short and flexible while an adult helps with conflicts is the month's focus.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#7a557d"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">21</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Practice togetherness</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">WHO responsive care · AAP play guidance — selected examples, practical adaptation</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#7a557d">Short, flexible turns</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <circle cx="360" cy="460" r="44" fill="#bfa6c6" stroke="#7a557d" stroke-width="5"/>
+  <path d="M330 452 A30 30 0 0 1 390 452" fill="none" stroke="#f0e3ef" stroke-width="3"/>
+  <path d="M270 440 C280 430 300 428 318 432" fill="none" stroke="#7a557d" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="270,440 280,444 279,432" fill="#7a557d"/>
+  <path d="M450 440 C440 430 420 428 402 432" fill="none" stroke="#7a557d" stroke-width="4" stroke-linecap="round"/>
+  <polygon points="450,440 440,444 441,432" fill="#7a557d"/>
+  <text x="360" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">back and forth</text>
+  <rect x="130" y="330" width="70" height="70" rx="12" fill="#9a6b3f"/>
+  <rect x="185" y="270" width="70" height="70" rx="12" fill="#2b6f63"/>
+  <circle cx="160" cy="404" r="12" fill="none" stroke="#7a557d" stroke-width="4"/>
+  <text x="185" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">shared blocks</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Take turns adding a block. If they want to work alone, build beside them without demanding sharing.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#e7dce9"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#7a557d"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Take turns, or build beside</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Independence is fine, too</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#e7dce9"/>
+    <circle cx="764" cy="328" r="19" fill="#7a557d"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Roll between three people</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">Short distances, loose expectations</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#e7dce9"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#7a557d"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">Let them choose a book</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">Point, gesture, or speak freely</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#e7dce9"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#7a557d"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">Help with conflicts</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">"You are using that. We can find another."</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">WHO responsive care and AAP play guidance support this broad approach. This month is a practical adaptation, not a checklist.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">For monitoring, use the CDC 15, 18, and 24-month checkpoints; raise concerns whenever they arise.</text>
+</svg>

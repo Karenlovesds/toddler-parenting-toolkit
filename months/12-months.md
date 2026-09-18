@@ -4,6 +4,12 @@
 
 **Checkpoint month:** use the [full CDC 1-year checklist](https://www.cdc.gov/act-early/milestones/1-year.html), alongside clinician advice.
 
+![Month 12 illustration: connect, contain, and move](../assets/month-12.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** the [CDC photo and video library for 12 months](https://www.cdc.gov/act-early/milestones-in-action/1-year.html) shows actual children doing selected milestones; use it alongside the full checklist.
+
 ## Parenting focus
 
 Create safe space for exploration and respond to looks, gestures, sounds, and attempts to communicate. Repetition is useful and welcome.

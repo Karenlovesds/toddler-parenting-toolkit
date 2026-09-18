@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">20 months — Notice differences</title>
+  <desc id="desc">A big and a small nesting cup next to two paint colors. Exploring contrasting sizes and colors is the focus; the child is not asked to sort or name them correctly.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#9a6b3f"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">20</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Notice differences</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">WHO responsive care · AAP play guidance — selected examples, practical adaptation</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#9a6b3f">Big and small, side by side</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <rect x="150" y="380" width="150" height="110" rx="16" fill="#efe3d4" stroke="#9a6b3f" stroke-width="5"/>
+  <rect x="330" y="440" width="80" height="70" rx="12" fill="#e6d9c6" stroke="#9a6b3f" stroke-width="5"/>
+  <text x="225" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">big</text>
+  <text x="370" y="528" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">small</text>
+  <circle cx="500" cy="430" r="40" fill="#3f7f9a"/>
+  <circle cx="560" cy="455" r="28" fill="#b85f4e"/>
+  <text x="530" y="516" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">two colors</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Explore contrasts freely. Let mixing or switching replace sorting and testing.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#efe3d4"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#9a6b3f"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Big/small, inside/outside</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Nesting cups without sorting demands</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#efe3d4"/>
+    <circle cx="764" cy="328" r="19" fill="#9a6b3f"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Carry or roll a ball</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">Toward a nearby basket; kick only if ready</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#efe3d4"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#9a6b3f"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">Connect book and day</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">"The child washed. We washed too."</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#efe3d4"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#9a6b3f"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">Notice the attempt</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">"You tried turning it"; stopping is OK</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">WHO responsive care and AAP play guidance support this broad approach. This month is a practical adaptation, not a checklist.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">For monitoring, use the CDC 15, 18, and 24-month checkpoints; raise concerns whenever they arise.</text>
+</svg>

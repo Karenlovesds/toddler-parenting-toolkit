@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">16 months — Explore cause and effect</title>
+  <desc id="desc">Two large cups pouring water into a supervised basin while the child explores more and empty. Pouring and transferring water under close supervision is a cause-and-effect activity.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#4d8a5f"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">16</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Explore cause and effect</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">WHO responsive care · AAP play guidance — selected examples, practical adaptation</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#4d8a5f">Supervised water basin pour</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <ellipse cx="300" cy="505" rx="150" ry="40" fill="#dceadf" stroke="#6b9d7b" stroke-width="4"/>
+  <path d="M300 470 C290 430 295 400 310 380 L372 380 C360 420 355 460 360 505 Z" fill="#a9c8b5"/>
+  <path d="M310 380 C330 430 335 460 340 505 L360 505 C355 460 350 420 330 380 Z" fill="#7fae90"/>
+  <rect x="180" y="330" width="80" height="70" rx="10" fill="#bfd8ea" stroke="#3f7f9a" stroke-width="4"/>
+  <path d="M180 360 C165 360 160 352 160 340 C160 328 165 320 180 320 C195 320 200 328 200 340" fill="none" stroke="#3f7f9a" stroke-width="3"/>
+  <path d="M230 300 C215 300 210 292 210 280 C210 268 215 260 230 260 C245 260 250 268 250 280" fill="none" stroke="#7fae90" stroke-width="4"/>
+  <text x="220" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#4d8a5f" font-weight="700">more</text>
+  <text x="425" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#4d8a5f" font-weight="700">empty</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Pour between two large cups in a supervised basin. Describe "more" and "empty" without quizzing.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#dceadf"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#4d8a5f"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Supervised water pour</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Same supervision as all water play</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#dceadf"/>
+    <circle cx="764" cy="328" r="19" fill="#4d8a5f"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Walk or crawl together</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">To a nearby basket, at their pace</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#dceadf"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#4d8a5f"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">Pair book and object</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">A picture plus a safe familiar cup</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#dceadf"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#4d8a5f"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">Two acceptable choices</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">"Book or ball?" Accept a gesture</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">WHO responsive care and AAP play guidance support this broad approach. This month is a practical adaptation, not a checklist.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">For monitoring, use the CDC 15, 18, and 24-month checkpoints; raise concerns whenever they arise.</text>
+</svg>

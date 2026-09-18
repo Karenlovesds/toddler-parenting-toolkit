@@ -23,6 +23,8 @@ Success means shared enjoyment, chances to explore, and a caregiver who responds
 
 These original diagrams summarize cited guidance; they are not diagnostic tools, exact-size templates, or substitutes for the linked official CDC examples. See [visual guide notes](guides/visual-guides.md).
 
+Every [monthly plan](months/) also includes an original activity-card illustration tied to that month's theme and the cited evidence. See [Monthly activity cards](guides/visual-guides.md#monthly-activity-cards).
+
 ## Monthly plans
 
 [12 months](months/12-months.md) · [13 months](months/13-months.md) · [14 months](months/14-months.md) · [15 months](months/15-months.md) · [16 months](months/16-months.md) · [17 months](months/17-months.md) · [18 months](months/18-months.md) · [19 months](months/19-months.md) · [20 months](months/20-months.md) · [21 months](months/21-months.md) · [22 months](months/22-months.md) · [23 months](months/23-months.md) · [24 months](months/24-months.md)

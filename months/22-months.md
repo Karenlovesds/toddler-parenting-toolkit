@@ -4,6 +4,12 @@
 
 **Activity theme only:** there is no separate CDC checklist for this month. Use the [15, 18, and 24-month checkpoints](../guides/milestones.md) and raise concerns whenever they arise.
 
+![Month 22 illustration: make a small plan](../assets/month-22.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** CDC publishes real milestone photos and videos only at its checkpoint ages; nearest are the [18-month library](https://www.cdc.gov/act-early/milestones-in-action/18-months.html) and the [2-year library](https://www.cdc.gov/act-early/milestones-in-action/2-years.html). There is no separate CDC media for this month.
+
 ## Parenting focus
 
 Invite a simple shared project while allowing them to change direction.

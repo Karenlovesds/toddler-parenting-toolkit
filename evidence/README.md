@@ -32,14 +32,16 @@ Professional guidance supporting play and interaction as part of development. Ap
 
 Supports the sleep and activity recommendations in the routine guide. WHO does not recommend sedentary screen time for one-year-olds; at age two its upper limit is one hour daily, with less preferred. Our activities are screen-free. Neither play-session duration nor exact household timing is specified by the evidence. Childcare and home both contribute.
 
+The routine guide embeds the official 24-hour movement summary infographic rendered from this PDF (page 11, ages 1–2 and 3–4), used under CC BY-NC-SA 3.0 IGO with source, date, and limits recorded in the [visual guides register](../guides/visual-guides.md).
+
 ## E4 — Developmental checkpoints
 
-- [CDC: 1 year](https://www.cdc.gov/act-early/milestones/1-year.html)
-- [CDC: 15 months](https://www.cdc.gov/act-early/milestones/15-months.html)
-- [CDC: 18 months](https://www.cdc.gov/act-early/milestones/18-months.html)
-- [CDC: 2 years](https://www.cdc.gov/act-early/milestones/2-years.html)
+- [CDC: 1 year](https://www.cdc.gov/act-early/milestones/1-year.html) — [photo and video library](https://www.cdc.gov/act-early/milestones-in-action/1-year.html)
+- [CDC: 15 months](https://www.cdc.gov/act-early/milestones/15-months.html) — [photo and video library](https://www.cdc.gov/act-early/milestones-in-action/15-months.html)
+- [CDC: 18 months](https://www.cdc.gov/act-early/milestones/18-months.html) — [photo and video library](https://www.cdc.gov/act-early/milestones-in-action/18-months.html)
+- [CDC: 2 years](https://www.cdc.gov/act-early/milestones/2-years.html) — [photo and video library](https://www.cdc.gov/act-early/milestones-in-action/2-years.html)
 
-Monitoring guidance, not diagnostic tests. Use the full official checklists; repository examples are selective. These sources do not supply a separate checklist for each month between checkpoints.
+Monitoring guidance, not diagnostic tests. Use the full official checklists; repository examples are selective. These sources do not supply a separate checklist (or real photo/video examples) for each month between checkpoints. Monthly plans link the nearest official photo and video library so families can see real examples.
 
 ## E5 — Screening
 
@@ -81,7 +83,7 @@ Supports food preparation, meal/snack rhythm, cup and utensil practice, the gene
 
 ## E9 — Visual summaries
 
-The original SVG diagrams translate the cited guidance into simplified visual references. The developmental graphic uses selected CDC checkpoint examples; the food graphic uses CDC and AAP preparation guidance. Neither image is a diagnostic tool, a complete checklist, a clinical photograph, or an exact-size food template. Official CDC milestone pages remain the source for real photo and video examples.
+The original SVG diagrams translate the cited guidance into simplified visual references. The developmental graphic uses selected CDC checkpoint examples; the food graphic uses CDC and AAP preparation guidance. Each monthly plan also includes one card illustration of its activity theme; checkpoint months (12, 15, 18, 24) cite selected CDC examples, and other months are adapted from WHO responsive care and AAP play guidance. None of the images is a diagnostic tool, a complete checklist, a clinical photograph, or an exact-size food template. Official CDC milestone pages remain the source for real photo and video examples.
 
 ## Updating a claim
 

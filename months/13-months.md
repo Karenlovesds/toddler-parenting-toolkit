@@ -4,6 +4,12 @@
 
 **Activity theme only:** there is no separate CDC checklist for this month. Use the [12- and 15-month checkpoints](../guides/milestones.md) and raise concerns whenever they arise.
 
+![Month 13 illustration: repeat and discover](../assets/month-13.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** CDC publishes real milestone photos and videos only at its checkpoint ages; nearest are the [12-month library](https://www.cdc.gov/act-early/milestones-in-action/1-year.html) and the [15-month library](https://www.cdc.gov/act-early/milestones-in-action/15-months.html). There is no separate CDC media for this month.
+
 ## Parenting focus
 
 Repeat familiar actions and let the child explore cause and effect without turning play into a test.

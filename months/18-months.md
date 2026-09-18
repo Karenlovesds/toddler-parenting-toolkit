@@ -4,6 +4,12 @@
 
 **Checkpoint month:** use the [full CDC checklist](https://www.cdc.gov/act-early/milestones/18-months.html), alongside clinician advice.
 
+![Month 18 illustration: share attention and small choices](../assets/month-18.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** the [CDC photo and video library for 18 months](https://www.cdc.gov/act-early/milestones-in-action/18-months.html) shows actual children doing selected milestones; use it alongside the full checklist.
+
 ## Parenting focus
 
 Enjoy play together while reviewing development with their clinician.

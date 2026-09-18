@@ -20,6 +20,12 @@ An optional adult-led activity might last only a few minutes. Stop sooner or con
 
 WHO recommends **11–14 hours of sleep in 24 hours**, including naps, for ages 1–2, and **at least 180 minutes of varied physical activity distributed across the day**. Ordinary active play counts; this is not three hours of exercise classes or a home quota. [WHO guidance](https://www.who.int/news/item/24-04-2019-to-grow-up-healthy-children-need-to-sit-less-and-play-more)
 
+### Official 24-hour movement summary
+
+![WHO 24-hour movement guidelines for children aged 1–2 and 3–4 years](../assets/who-under5-24hour-1-4years.png)
+
+24-hour recommendations per age band (physical activity, sedentary screen time, and sleep) for children 1–2 and 3–4 years. Source: WHO *Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age* (2019), [iris.who.int full text](https://www.who.int/publications/i/item/9789241550536), page reproduced under CC BY-NC-SA 3.0 IGO; checked September 18, 2026. Intended age range 1–4 years. Notes: "minutes" are totaled across the day, roughly 3 hours distributed through ordinary play, not a timed class goal. "More is better" refers to varied active play generally, not to exceeding the sleep targets.
+
 Record actual overnight sleep and naps for several days if sleep is a concern. A bedtime-to-wake interval is sleep opportunity, not proof of time asleep. Coordinate routines across caregivers when helpful, and bring persistent concerns to the child's clinician.
 
 ## A simple first week

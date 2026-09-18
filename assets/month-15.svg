@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">15 months — Connect and explore: selected CDC examples</title>
+  <desc id="desc">An open book, two stacked objects, and a pointing arrow. Trying one or two words, pointing for help, stacking two objects, and taking a few steps are selected 15-month examples, not a diagnostic test.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#7a557d"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">15</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Connect and explore</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">CDC 15-month checklist · WHO responsive care · AAP play guidance — selected examples</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#7a557d">Let them lead with a favorite book</text>
+  <rect x="414" y="178" width="246" height="34" rx="17" fill="#e4ece8" stroke="#9fb3aa" stroke-width="2"/>
+  <text x="537" y="201" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#20342e">CDC 15-month checkpoint</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <circle cx="170" cy="430" r="40" fill="#7a557d"/>
+  <path d="M150 430 A20 20 0 0 1 190 430" fill="none" stroke="#f0e3ef" stroke-width="3"/>
+  <text x="170" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">takes a few steps</text>
+  <g>
+    <path d="M290 470 L340 330 L390 470 Z" fill="#d8c8dd"/>
+    <path d="M360 380 L340 330 L330 470 Z" fill="#cbb3d2"/>
+    <rect x="290" y="470" width="100" height="12" rx="6" fill="#a987bd"/>
+    <path d="M340 330 L360 380 L330 470 L290 470 Z" fill="#e7dce9"/>
+    <path d="M360 380 L390 470 L340 470 Z" fill="#d8c8dd"/>
+  </g>
+  <text x="340" y="510" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">a book together</text>
+  <rect x="450" y="420" width="60" height="60" rx="10" fill="#2b6f63"/>
+  <rect x="430" y="380" width="60" height="60" rx="10" fill="#9a6b3f" stroke="#f7f4ed" stroke-width="3"/>
+  <text x="470" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">stacks 2 objects</text>
+  <circle cx="590" cy="455" r="28" fill="#3f7f9a"/>
+  <path d="M588 492 L595 484 L582 484 Z" fill="#3f7f9a"/>
+  <path d="M596 452 C616 440 618 428 612 416" fill="none" stroke="#50635c" stroke-width="4" stroke-linecap="round"/>
+  <text x="535" y="520" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">points</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Name what they notice without asking them to repeat the word. Repeat favorites as often as they like.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#e7dce9"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#7a557d"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Stack two objects</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Selected CDC example, not a deadline</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#e7dce9"/>
+    <circle cx="764" cy="328" r="19" fill="#7a557d"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Take a few steps</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">Selected CDC example; do not force</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#e7dce9"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#7a557d"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">1–2 words, points</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">Selected CDC examples</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#e7dce9"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#7a557d"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">Reconnect with favorites</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">"You showed me what you wanted"</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">Selected examples from the CDC 15-month checklist plus WHO responsive care and AAP play — not a diagnostic test.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">Skill loss or any concern: talk with a clinician and use the full official checklists.</text>
+</svg>

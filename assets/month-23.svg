@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">23 months — Expand familiar play</title>
+  <desc id="desc">Differently sized cups with water and a large sheet with crayons and a safe outdoor route marker. Keeping favorites and adding one small variation is the month's focus.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#b85f4e"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">23</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Expand familiar play</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">WHO responsive care · AAP play guidance — selected examples, practical adaptation</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#b85f4e">Variation, not many new demands</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <path d="M300 470 C292 430 296 400 310 380 L368 380 C358 420 355 455 360 505 C310 500 306 480 300 470 Z" fill="#a9c8b5"/>
+  <path d="M310 380 C330 430 335 460 340 505 L362 505 C357 460 350 420 332 380 Z" fill="#7fae90"/>
+  <rect x="230" y="370" width="66" height="60" rx="10" fill="#bfd8ea" stroke="#3f7f9a" stroke-width="4"/>
+  <text x="300" y="476" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">water transfer</text>
+  <rect x="470" y="360" width="90" height="80" rx="12" fill="#9a6b3f"/>
+  <rect x="548" y="380" width="70" height="60" rx="12" fill="#d9a448"/>
+  <text x="535" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">favorite tools</text>
+  <circle cx="420" cy="500" r="18" fill="#2b6f63"/>
+  <text x="420" y="512" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">route</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Keep favorite activities and add one small variation, one or two tools at a time.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#f3e0dc"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#b85f4e"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Revisit water transfer</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Differently sized cups, supervised</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#f3e0dc"/>
+    <circle cx="764" cy="328" r="19" fill="#b85f4e"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Choose a safe route</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">Outside, at the child's own speed</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#f3e0dc"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#b85f4e"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">Answer with a short phrase</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">Playful, not a repetition drill</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#f3e0dc"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#b85f4e"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">"Tell me or show me"</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">Respect every way of communicating</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">WHO responsive care and AAP play guidance support this broad approach. This month is a practical adaptation, not a checklist.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">For monitoring, use the CDC 15, 18, and 24-month checkpoints; raise concerns whenever they arise.</text>
+</svg>

@@ -4,6 +4,12 @@
 
 **Checkpoint month:** use the [full CDC checklist](https://www.cdc.gov/act-early/milestones/2-years.html), alongside clinician advice.
 
+![Month 24 illustration: celebrate and review](../assets/month-24.svg)
+
+*Selected examples from the cited guidance, not a diagnostic test. See the [visual guide notes](../guides/visual-guides.md) and the [evidence register](../evidence/README.md).*
+
+**Official real examples:** the [CDC photo and video library for 2 years](https://www.cdc.gov/act-early/milestones-in-action/2-years.html) shows actual children doing selected milestones; use it alongside the full checklist.
+
 ## Parenting focus
 
 Celebrate what they enjoy and how your relationship has grown. Choose the next steps with them and their clinician.

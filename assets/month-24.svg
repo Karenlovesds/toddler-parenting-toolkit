@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">24 months — Celebrate and review</title>
+  <desc id="desc">A favorite book, building blocks, and a soft ball being kicked, with a small star above. Running, kicking a ball, and combining words are selected 2-year milestone examples, not a diagnostic test.</desc>
+  <rect width="1200" height="760" fill="#f7f4ed"/>
+  <circle cx="110" cy="100" r="48" fill="#2b6f63"/>
+  <text x="110" y="112" text-anchor="middle" font-family="Arial, sans-serif" font-size="40" font-weight="700" fill="#ffffff">24</text>
+  <text x="180" y="88" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#20342e">Celebrate and review</text>
+  <text x="180" y="122" font-family="Arial, sans-serif" font-size="19" fill="#50635c">CDC 2-year checklist · WHO responsive care · AAP play guidance — selected examples</text>
+  <line x1="40" y1="152" x2="1160" y2="152" stroke="#c8d2cc" stroke-width="2"/>
+  <rect x="40" y="170" width="640" height="430" rx="20" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+  <text x="70" y="208" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#2b6f63">Return to favorites</text>
+  <rect x="414" y="178" width="246" height="34" rx="17" fill="#e4ece8" stroke="#9fb3aa" stroke-width="2"/>
+  <text x="537" y="201" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#20342e">CDC 2-year checkpoint</text>
+  <rect x="70" y="530" width="580" height="8" rx="4" fill="#e4ece8"/>
+  <path d="M110 440 L205 440 L180 415 L195 415 L215 395 L205 395 L230 380 L180 380 L165 395 L150 395 L175 420 L160 420 Z" fill="#d9a448"/>
+  <path d="M230 380 C255 370 260 350 250 330" fill="none" stroke="#d9a448" stroke-width="3"/>
+  <text x="150" y="470" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">celebrate</text>
+  <rect x="230" y="400" width="50" height="50" rx="10" fill="#9a6b3f"/>
+  <rect x="210" y="365" width="50" height="50" rx="10" fill="#2b6f63" stroke="#f7f4ed" stroke-width="3"/>
+  <text x="240" y="478" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">build</text>
+  <circle cx="360" cy="425" r="40" fill="#7a557d"/>
+  <path d="M300 480 L410 460 Q430 452 445 438 L400 412 Q425 400 470 398 L470 392 Q430 390 390 398 L380 380 L430 430" fill="none" stroke="#7a557d" stroke-width="4" stroke-linecap="round"/>
+  <text x="350" y="500" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">runs and kicks a soft ball</text>
+  <path d="M490 470 L540 370 L590 470 Z" fill="#bfd8ea"/>
+  <path d="M540 370 L590 470 L540 470 Z" fill="#d5e3ee"/>
+  <rect x="490" y="470" width="100" height="10" rx="5" fill="#9fb3aa"/>
+  <text x="540" y="508" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#50635c">favorite book</text>
+  <text x="360" y="578" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" fill="#50635c">Celebrate their interests without comparing skills to other children. Choose next steps together.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="720" y="170" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="216" r="30" fill="#dce9e5"/>
+    <rect x="749" y="201" width="30" height="30" rx="6" fill="#2b6f63"/>
+    <text x="816" y="214" font-size="21" font-weight="700" fill="#20342e">Let them guide your role</text>
+    <text x="816" y="240" font-size="16" fill="#50635c">Favorite building or cup games</text>
+    <rect x="720" y="282" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="328" r="30" fill="#dce9e5"/>
+    <circle cx="764" cy="328" r="19" fill="#2b6f63"/>
+    <text x="816" y="326" font-size="21" font-weight="700" fill="#20342e">Roll, carry, kick</text>
+    <text x="816" y="352" font-size="16" fill="#50635c">A soft ball and safe open space</text>
+    <rect x="720" y="394" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="440" r="30" fill="#dce9e5"/>
+    <rect x="752" y="424" width="24" height="32" rx="4" fill="#2b6f63"/>
+    <line x1="764" y1="424" x2="764" y2="456" stroke="#f7f4ed" stroke-width="2"/>
+    <text x="816" y="438" font-size="21" font-weight="700" fill="#20342e">Reread a loved book</text>
+    <text x="816" y="464" font-size="16" fill="#50635c">Room to point, speak, or act out</text>
+    <rect x="720" y="506" width="440" height="92" rx="16" fill="#ffffff" stroke="#c8d2cc" stroke-width="2"/>
+    <circle cx="764" cy="552" r="30" fill="#dce9e5"/>
+    <path d="M764 565 C754 558 746 550 746 544 C746 537 753 533 760 533 C763 533 764 535 764 535 C764 535 765 533 768 533 C775 533 782 537 782 544 C782 550 774 558 764 565 Z" fill="#2b6f63"/>
+    <text x="816" y="550" font-size="21" font-weight="700" fill="#20342e">"I like being with you"</text>
+    <text x="816" y="576" font-size="16" fill="#50635c">Never compare skills to other children</text>
+  </g>
+  <rect x="40" y="630" width="1120" height="92" rx="14" fill="#e4ece8"/>
+  <text x="600" y="664" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">Selected examples from the CDC 2-year checklist plus WHO responsive care and AAP play — not a diagnostic test.</text>
+  <text x="600" y="692" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#30473f">Skill loss or any concern: talk with a clinician and use the full official checklists.</text>
+</svg>
